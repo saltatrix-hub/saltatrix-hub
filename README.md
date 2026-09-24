@@ -4,14 +4,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=Kamp%C3%BCs+ve+kurumsal+altyap%C4%B1y%C4%B1+ayakta+tutuyorum;IT+destek+%C2%B7+A%C4%9F+%C2%B7+Sistem+%C2%B7+Otomasyon;Web+ara%C3%A7lar%C4%B1+%C2%B7+%C3%87ok+oyunculu+oyunlar+%C2%B7+QA" alt="Alperen Şenel hakkında animasyonlu satırlar" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=3200&pause=900&color=D9B85F&center=true&vCenter=true&width=720&lines=Kamp%C3%BCs+ve+kurumsal+altyap%C4%B1y%C4%B1+ayakta+tutuyorum;IT+destek+%C2%B7+A%C4%9F+%C2%B7+Sistem+%C2%B7+Otomasyon;Web+ara%C3%A7lar%C4%B1+%C2%B7+%C3%87ok+oyunculu+oyunlar+%C2%B7+QA" alt="Alperen Şenel hakkında animasyonlu satırlar" />
 
 <br>
 
-[![Website](https://img.shields.io/badge/alperensenel.com-0A0614?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD&labelColor=1A102C)](https://alperensenel.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0614?style=for-the-badge&logo=linkedin&logoColor=C4B5FD&labelColor=1A102C)](https://www.linkedin.com/in/alperensenel)
-[![E-posta](https://img.shields.io/badge/E--posta-0A0614?style=for-the-badge&logo=gmail&logoColor=C4B5FD&labelColor=1A102C)](mailto:alperensenel37@gmail.com)
-[![Portföy](https://img.shields.io/badge/Portföy-0A0614?style=for-the-badge&logo=github&logoColor=C4B5FD&labelColor=1A102C)](https://alperensenel.com/#projects)
+[![Website](https://img.shields.io/badge/alperensenel.com-080A0D?style=for-the-badge&logo=googlechrome&logoColor=D9B85F&labelColor=0D1016)](https://alperensenel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080A0D?style=for-the-badge&logo=linkedin&logoColor=D9B85F&labelColor=0D1016)](https://www.linkedin.com/in/alperensenel)
+[![E-posta](https://img.shields.io/badge/E--posta-080A0D?style=for-the-badge&logo=gmail&logoColor=D9B85F&labelColor=0D1016)](mailto:alperensenel37@gmail.com)
+[![CV](https://img.shields.io/badge/CV-080A0D?style=for-the-badge&logo=adobeacrobatreader&logoColor=D9B85F&labelColor=0D1016)](https://alperensenel.com/Huseyin_Alperen_Senel_CV_Final_v3.pdf)
 
 </div>
 
@@ -84,8 +84,8 @@ BTK Akademi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saltatrix-hub&show_icons=true&hide_border=true&bg_color=0A0614&title_color=C4B5FD&icon_color=A78BFA&text_color=EDE9FE&ring_color=8B5CF6" alt="GitHub istatistikleri" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltatrix-hub&layout=compact&hide_border=true&bg_color=0A0614&title_color=C4B5FD&text_color=EDE9FE" alt="En çok kullanılan diller" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saltatrix-hub&show_icons=true&hide_border=true&bg_color=080A0D&title_color=D9B85F&icon_color=F1D98D&text_color=EEF0F3&ring_color=D9B85F" alt="GitHub istatistikleri" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saltatrix-hub&layout=compact&hide_border=true&bg_color=080A0D&title_color=D9B85F&text_color=EEF0F3" alt="En çok kullanılan diller" />
 
 </div>
 
@@ -93,7 +93,7 @@ BTK Akademi
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5B21B6,50:7C3AED,100:A78BFA&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:080A0D,50:D9B85F,100:F1D98D&section=footer" width="100%" alt="" />
 
 Site, LinkedIn veya e-posta üzerinden yazabilirsin.
 
