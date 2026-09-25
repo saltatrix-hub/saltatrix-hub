@@ -60,8 +60,8 @@ Yapay zekâ destekli otomasyonlar, web araçları, çok oyunculu oyunlar ve mü�
 
 Innova
 
-- CCNA
-- Cisco
+- CCNA Eğitim
+- Cisco Kablosuz Ağ Temelleri
 
 BTK Akademi
 
