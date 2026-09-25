@@ -49,6 +49,7 @@ Yapay zekâ destekli otomasyonlar, web araçları, çok oyunculu oyunlar ve mü�
 
 | | | |
 | :---: | --- | --- |
+| <img src="assets/projects/tomyrs-x.png" width="56" alt="Tomyrs X" /> | **[Tomyrs X](https://github.com/saltatrix-hub/tomyrs-x)** | Windows 11 debloat, performans ve GPU ayarlarını tek arayüzde birleştiren C#/WPF masaüstü uygulaması. [Kurulumu indir](https://github.com/saltatrix-hub/tomyrs-x/releases/latest/download/TomyrsX-Setup.exe) |
 | <img src="assets/projects/kisalink.png" width="56" alt="KısaLink" /> | **[KısaLink](https://kisalink.alperensenel.com)** | Bağlantı kısaltma, parola oluşturma ve görsel düzenleme. [Kaynak](https://github.com/saltatrix-hub/kisalink.alperensenel.com) |
 | <img src="assets/projects/qr.png" width="56" alt="QR Kod" /> | **[QR Kod Oluşturucu](https://qr.alperensenel.com)** | Özelleştirilebilir QR kodlar. [Kaynak](https://github.com/saltatrix-hub/qr.alperensenel.com) |
 | <img src="assets/projects/webtest.png" width="56" alt="WebTest" /> | **[WebTest](https://webtest.alperensenel.com)** | DNS, güvenlik başlıkları ve web servis kontrol paneli. [Kaynak](https://github.com/saltatrix-hub/webtest.alperensenel.com) |
